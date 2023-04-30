@@ -2,7 +2,7 @@
 <br>I am Rahim Valiyev. I am currently studying Full-Stack programming.
 
 
-
+aaa
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahim Valiyev) 
 
